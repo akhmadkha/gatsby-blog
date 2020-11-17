@@ -6,6 +6,6 @@ title: "Frammer Motion, Bikin Cakep React App Kalian \U0001F62C"
 metaDescription: |-
   Frammer Motion
   React JS
-thumbnail: /assets/Background.png
+thumbnail: /assets/Background (2).png
 ---
 Hai Sob.
